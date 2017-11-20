@@ -35,7 +35,7 @@ public class VentanaMiPerfil extends JFrame {
 
 	//Creamos strings y ventana
 	public VentanaMiPerfil() {
-		setTitle("PERFIL");
+		setTitle("PERFIL CAMBIADO");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 450, 300);
 		
